@@ -9,4 +9,5 @@ Mis intereses son los videojuegos, anime y dibujo.
 
 Me quiero dedicar a desarrollar videojuegos.
 
-![foto](yo.png)
+![foto](Yo.png)
+(Foto de 2019)

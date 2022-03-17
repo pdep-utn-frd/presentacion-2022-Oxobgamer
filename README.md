@@ -1,6 +1,6 @@
 # Matias Figueroa Dittmar
 
-**Legajo: 12797
+*Legajo: 12797*
 
 Tengo 20 años.
 Vivo en el partido de Zárate.
